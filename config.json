@@ -24,7 +24,7 @@
         "roll": 0.0
       }
     ],
-    "viewpointHoldTime": 15,
-    "viewpointTransitionTime" :  3
+    "viewpointHoldTime": 10,
+    "viewpointTransitionTime" :  6
   }
 }
