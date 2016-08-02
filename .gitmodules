@@ -1,0 +1,3 @@
+[submodule "adsb_map_client"]
+	path = adsb_map_client
+	url = git@github.com:powerjm/adsb_map_client.git

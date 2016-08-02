@@ -1,0 +1,24 @@
+{
+  "name": "adsb_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/powerjm/adsb_map.git"
+  },
+  "author": "Jeff Powers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/powerjm/adsb_map/issues"
+  },
+  "homepage": "https://github.com/powerjm/adsb_map#readme"
+}

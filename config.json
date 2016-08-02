@@ -1,0 +1,30 @@
+{
+  "port": 8082,
+  "setupData": {
+   "homeCoordinates": {
+  	  "latitude": 33.393626,
+  	  "longitude": -86.784832,
+  	  "altitude": 174.955
+    },
+    "viewpoints": [
+    	{
+        "latitude": 33.212747,
+        "longitude": -86.932939,
+        "altitude": 5000,
+        "heading": 0.268019659921368,
+        "pitch": -0.34878977794813504,
+        "roll": 0.0
+      },
+      {
+        "latitude": 33.20043,
+        "longitude": -86.75028,
+        "altitude": 5000,
+        "heading": 5.822216454393552,
+        "pitch": -0.3934627253197531,
+        "roll": 0.0
+      }
+    ],
+    "viewpointHoldTime": 15,
+    "viewpointTransitionTime" :  3
+  }
+}
